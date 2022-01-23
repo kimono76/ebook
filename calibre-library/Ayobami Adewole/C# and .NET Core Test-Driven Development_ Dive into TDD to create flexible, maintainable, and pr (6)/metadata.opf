@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e543b8c-35ec-46d3-912f-be0d07a8038e</dc:identifier>
+        <dc:title>C# and .NET Core Test-Driven Development: Dive into TDD to create flexible, maintainable, and production-ready .NET Core applications</dc:title>
+        <dc:creator opf:file-as="Adewole, Ayobami" opf:role="aut">Ayobami Adewole</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-05-18T03:00:00+00:00</dc:date>
+        <dc:description>With constantly changing business requirements and technical environments, the code needs to evolve too. Building applications using test-driven development process ensures that they work properly irrespective of such changes. In this book, you will learn to make such robust and production-ready applications with C# and .NET.</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0772S8R7Q</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>COM051310 - COMPUTERS / Programming Languages / C#</dc:subject>
+        <dc:subject>COM051330 - COMPUTERS / Software Development and Engineering / Quality Assurance and Testing</dc:subject>
+        <dc:subject>COM051440 - COMPUTERS / Software Development and Engineering / Tools</dc:subject>
+        <dc:subject>Sample Book</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ayobami Adewole&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-01-23T22:45:24.466593+00:00"/>
+        <meta name="calibre:title_sort" content="C# and .NET Core Test-Driven Development: Dive into TDD to create flexible, maintainable, and production-ready .NET Core applications"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

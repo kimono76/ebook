@@ -1,0 +1,931 @@
+﻿Kindle User's Guide, 3rd Edition (Amazon)
+- Your Highlight on Location 138-139 | Added on Thursday, October 31, 2019 9:27:04 PM
+
+you can choose to save your Wi-Fi password to Amazon.
+==========
+﻿Kindle User's Guide, 3rd Edition (Amazon)
+- Your Highlight on Location 139-139 | Added on Thursday, October 31, 2019 9:27:32 PM
+
+so that you will not need to re-enter your Wi-Fi passwords for each device.
+==========
+﻿Kindle User's Guide, 3rd Edition (Amazon)
+- Your Highlight on Location 164-164 | Added on Thursday, October 31, 2019 9:28:44 PM
+
+your Bluetooth device within 2 minutes of completing step
+==========
+﻿Pro Git (Chacon, Scott)
+- Your Bookmark on Location 839 | Added on Saturday, November 2, 2019 12:25:24 AM
+
+
+==========
+﻿Pro Git (Chacon, Scott)
+- Your Bookmark on Location 839 | Added on Saturday, November 2, 2019 12:26:11 AM
+
+
+==========
+PDF-Guide-Node-Andrew-Mead-v3  
+- Your Bookmark on page 18 | Added on Monday, November 25, 2019 1:06:02 AM
+
+
+==========
+PDF-Guide-Node-Andrew-Mead-v3  
+- Your Bookmark on page 29 | Added on Sunday, December 1, 2019 12:46:20 PM
+
+
+==========
+DesignPatterns_ElementsOfReusable  
+- Your Highlight on page 21-21 | Added on Saturday, April 4, 2020 2:20:07 PM
+
+objects interact and distribute responsibility. Purpose Creational Structural Behavioral21
+==========
+DesignPatterns_ElementsOfReusable  
+- Your Bookmark on page 110 | Added on Saturday, April 4, 2020 2:29:20 PM
+
+
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Bookmark on Location 611 | Added on Saturday, April 18, 2020 4:38:40 PM
+
+
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Bookmark on Location 621 | Added on Saturday, April 18, 2020 4:39:15 PM
+
+
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 464-464 | Added on Sunday, May 24, 2020 3:07:50 PM
+
+Individuals and Interactions, Working Software, Customer Collaboration, and Responding to Change.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 465-466 | Added on Sunday, May 24, 2020 3:09:57 PM
+
+processes, tools, documentation, contracts, and plans.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 478-480 | Added on Sunday, May 24, 2020 3:12:46 PM
+
+Individuals and interactions over processes and tools. Working software over comprehensive documentation. Customer collaboration over contract negotiation. Responding to change over following a plan.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 508-508 | Added on Sunday, May 24, 2020 3:27:19 PM
+
+the Iron Cross of project management. Good, fast, cheap, done: Pick any three you like. You can’t have the fourth.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 510-511 | Added on Sunday, May 24, 2020 3:27:37 PM
+
+A good manager drives a project to be good enough, fast enough, cheap enough, and done as much as necessary.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 549-550 | Added on Sunday, May 24, 2020 3:37:29 PM
+
+Agile development is first and foremost a feedback-driven approach. Each week, each day, each hour, and even each minute is driven by looking at the results of the previous week, day, hour, and minute, and then making the appropriate adjustments.
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page xvii | Location 216-218 | Added on Saturday, May 30, 2020 2:28:21 PM
+
+Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change. —Grady Booch
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page xxv | Location 321-321 | Added on Saturday, May 30, 2020 2:59:47 PM
+
+Object Oriented C++ Applications Using the Booch
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 5 | Location 365-366 | Added on Saturday, May 30, 2020 3:15:09 PM
+
+The goal of software architecture is to minimize the human resources required to build and maintain the required system.
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 5 | Location 366-367 | Added on Saturday, May 30, 2020 3:15:56 PM
+
+The measure of design quality is simply the measure of the effort required to meet the needs of the customer. If that effort is low, and stays low throughout the lifetime of the system, the design is good.
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 22 | Location 553-554 | Added on Sunday, May 31, 2020 5:14:26 PM
+
+and do/while/until constructs. We
+==========
+Pro Git (Chacon, Scott)
+- Your Highlight on page 8 | Location 896-899 | Added on Friday, June 5, 2020 1:41:01 PM
+
+Git has three main states that your files can reside in: committed, modified, and staged. Committed means that the data is safely stored in your local database. Modified means that you have changed the file but have not committed it to your database yet. Staged means that you have marked a modified file in its current version to go into your next commit snapshot.
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Highlight on Location 343-345 | Added on Sunday, June 7, 2020 2:17:44 PM
+
+The design patterns in this book are descriptions of communicating objects and classes that are customized to solve a general design problem in a particular context.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1361-1361 | Added on Saturday, June 13, 2020 3:22:27 PM
+
+Independent.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1366-1366 | Added on Saturday, June 13, 2020 3:22:37 PM
+
+Negotiable.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1370-1370 | Added on Saturday, June 13, 2020 3:22:43 PM
+
+Valuable.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1377-1377 | Added on Saturday, June 13, 2020 3:22:51 PM
+
+Estimable.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1379-1379 | Added on Saturday, June 13, 2020 3:23:08 PM
+
+Small.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1383-1383 | Added on Saturday, June 13, 2020 3:23:14 PM
+
+Testable.
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Highlight on Location 479-481 | Added on Saturday, June 13, 2020 3:48:31 PM
+
+Creational patterns concern the process of object creation. Structural patterns deal with the composition of classes or objects. Behavioral patterns characterize the ways in which classes or objects interact and distribute responsibility.
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 2 | Location 258-260 | Added on Tuesday, June 16, 2020 1:47:32 PM
+
+A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E. Tom Mitchell, 1997
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 2 | Location 255-256 | Added on Tuesday, June 16, 2020 1:49:43 PM
+
+Machine Learning is the science (and art) of programming computers so they can learn from data.
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 78 | Location 1204-1207 | Added on Thursday, June 18, 2020 1:31:11 PM
+
+What is wanted here is something like the following substitution property: If for each object o1 of type S there is an object o2 of type T such that for all programs P defined in terms of T, the behavior of P is unchanged when o1 is substituted for o2 then S is a subtype of T.1
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Highlight on Location 630-631 | Added on Friday, June 19, 2020 1:14:13 PM
+
+Program to an interface, not an implementation. Don’t declare variables to be instances of particular concrete classes. Instead, commit only to an interface defined by an abstract class.
+==========
+Pro Git (Chacon, Scott)
+- Your Bookmark on page 24 | Location 1219 | Added on Sunday, June 21, 2020 6:06:58 PM
+
+
+==========
+Working With Emotional Intelligence (Goleman, Daniel)
+- Your Highlight on page 24 | Location 493-494 | Added on Monday, June 22, 2020 1:54:21 PM
+
+Our emotional intelligence determines our potential for learning the practical skills that are based on its five elements: self-awareness, motivation, self-regulation, empathy, and adeptness in relationships
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1981-1984 | Added on Sunday, June 28, 2020 2:34:54 PM
+
+However, imagine a group of programmers following these Three Rules. Choose any one of those programmers you like, at any time. Everything that programmer was working on executed and passed all its tests less than a minute ago. It doesn’t matter whom you choose or when you choose them—everything worked less than a minute ago.
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 1968-1971 | Added on Sunday, June 28, 2020 2:35:17 PM
+
+TDD can be described with three simple rules. Do not write any production code until you have first written a test that fails due to the lack of that code. Do not write more of a test than is sufficient to fail—and failing to compile counts as a failure. Do not write more production code than is sufficient to pass the currently failing test.
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 164-166 | Added on Monday, June 29, 2020 1:24:02 PM
+
+Having problems getting the latest updates on your Kindle? It’s come to my attention that Kindle doesn’t always download the latest version of the book. To fix this: Go to http://amzn.to/2l53jdg
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Bookmark on Location 476 | Added on Thursday, July 2, 2020 12:57:10 PM
+
+
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Bookmark on Location 889 | Added on Thursday, July 2, 2020 12:59:32 PM
+
+
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 114 | Location 1667-1669 | Added on Saturday, July 4, 2020 12:56:57 PM
+
+Regardless of which component you begin at, it is impossible to follow the dependency relationships and wind up back at that component. This structure has no cycles. It is a directed acyclic graph (DAG).
+==========
+Numsense! Data Science for the Layman: No Math Added (Ng, Annalyn)
+- Your Highlight on page 1 | Location 134-136 | Added on Monday, July 13, 2020 12:47:30 PM
+
+There are four key steps in a data science study. First, the data must be processed and prepared for analysis. Next, suitable algorithms are shortlisted based on our study’s requirements. Following which, parameters of the algorithms have to be tuned to optimize results. These finally culminate in the building of models that are then compared to select the best one. 1.1
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 11 | Location 169-174 | Added on Sunday, July 19, 2020 12:07:49 PM
+
+const http = require('http') const server = http.createServer((req, res) =>{ console.log(req.url) res.end('Hello Node.js') }) server.listen(3000)
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 344-346 | Added on Sunday, July 19, 2020 12:49:13 PM
+
+-bit version of Windows 10 Pro/Enterprise/Education (does not work with Home edition) Hardware virtualization support must be enabled in your system’s BIOS The Hyper-V and Containers features must be enabled in Windows The
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Bookmark on page 428 | Location 10140 | Added on Sunday, July 19, 2020 12:59:05 PM
+
+
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 2 | Location 426-430 | Added on Sunday, July 19, 2020 1:01:39 PM
+
+JSON file that looks something like this: plays.json… Click here to view code image {
+  "hamlet": {"name": "Hamlet", "type": "tragedy"},
+  "as-like": {"name": "As You Like It", "type": "comedy"},
+  "othello": {"name": "Othello", "type": "tragedy"}
+}
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 2 | Location 430-438 | Added on Sunday, July 19, 2020 1:02:59 PM
+
+The data for their bills also comes in a JSON file: invoices.json… Click here to view code image [
+  {
+    "customer": "BigCo",
+    "performances": [
+      {
+        "playID": "hamlet",
+        "audience": 55
+      },
+      {
+        "playID": "as-like",
+        "audience": 35
+      },
+      {
+        "playID": "othello",
+        "audience": 40
+      }
+    ]
+  }
+]
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 2 | Location 438-456 | Added on Sunday, July 19, 2020 1:04:02 PM
+
+The code that prints the bill is this simple function: Click here to view code image function statement (invoice, plays) {
+  let totalAmount = 0;
+  let volumeCredits = 0;
+  let result = `Statement for ${invoice.customer}\n`;
+  const format = new Intl.NumberFormat("en-US",
+                        { style: "currency", currency: "USD",
+                          minimumFractionDigits: 2 }).format;
+  for (let perf of invoice.performances) {
+    const play = plays[perf.playID];
+    let thisAmount = 0;
+
+    switch (play.type) {
+    case "tragedy":
+      thisAmount = 40000;
+      if (perf.audience > 30) {
+        thisAmount += 1000 * (perf.audience - 30);
+      }
+      break;
+    case "comedy":
+      thisAmount = 30000;
+      if (perf.audience > 20) {
+        thisAmount += 10000 + 500 * (perf.audience - 20);
+      }
+      thisAmount += 300 * perf.audience;
+      break;
+    default:
+        throw new Error(`unknown type: ${play.type}`);
+    }
+
+    // add volume credits
+    volumeCredits += Math.max(perf.audience - 30, 0);
+    // add extra credit for every ten comedy attendees
+    if ("comedy" === play.type) volumeCredits += Math.floor(perf.audience / 5);
+
+    // print line for this order
+    result += `  ${play.name}: ${format(thisAmount/100)} (${perf.audience} seats)\n`;
+    totalAmount += thisAmount;
+  }
+  result += `Amount owed is ${format(totalAmount/100)}\n`;
+  result += `You earned ${volumeCredits} credits\n`;
+  return result;
+}
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 3 | Location 456-460 | Added on Sunday, July 19, 2020 1:05:02 PM
+
+Running that code on the test data files above results in the following output: Click here to view code image Statement for BigCo
+  Hamlet: $650.00 (55 seats)
+  As You Like It: $580.00 (35 seats)
+  Othello: $500.00 (40 seats)
+Amount owed is $1,730.00
+You earned 47 credits
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on Location 471-473 | Added on Sunday, July 19, 2020 1:44:04 PM
+
+.NET Core 3: This can be downloaded and installed from https://dotnet.microsoft.com/download/dotnet-core.
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on Location 485-504 | Added on Sunday, July 19, 2020 1:46:17 PM
+
+Download the example code files You can download the example code files for this book from your account at www.packt.com. If you purchased this book elsewhere, you can visit www.packtpub.com/support and register to have the files emailed directly to you. You can download the code files by following these steps: Log in or register at www.packt.com. Select the Support tab. Click on Code Downloads. Enter the name of the book in the Search box and follow the onscreen instructions. Once the file is downloaded, please make sure that you unzip or extract the folder using the latest version of: WinRAR/7-Zip for Windows Zipeg/iZip/UnRarX for Mac 7-Zip/PeaZip for Linux The code bundle for the book is also hosted on GitHub at https://github.com/PacktPublishing/ASP.NET-Core-3-and-React-17. In case there's an update to the code, it will be updated on the existing GitHub repository. We also have other code bundles from our rich catalog of books and videos available at https://github.com/PacktPublishing/. Check them out! Download the color images We also provide a PDF file that has color images of the screenshots/diagrams used in this book. You can download it here: https://static.packt-cdn.com/downloads/9781789950229_ColorImages.pdf. Code in Action Visit the following link to check out videos of the code being run: http://bit.ly/2sZjjlp
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 364-371 | Added on Tuesday, July 21, 2020 5:36:37 PM
+
+Switching to Windows containers is as simple as right-clicking the Docker whale icon in the Windows notifications tray and selecting Switch to Windows containers.... You can achieve the same thing from the command line with the following command (located in the \Program Files\Docker\Docker directory): C:\Program Files\Docker\Docker> .\dockercli -SwitchDaemon
+ Be aware that any existing Linux containers will keep running in the background, but you won’t be able to see or manage them until you switch back to Linux containers mode. You’ll be prompted to enable the Windows Containers feature if it isn’t already enabled.
+==========
+The Kubernetes Book: Updated Feb 2020 (Poulton, Nigel)
+- Your Highlight on page 9 | Location 213-213 | Added on Wednesday, July 22, 2020 12:36:23 PM
+
+(koo-ber-net-eez) comes from the Greek word meaning Helmsman
+==========
+C# and .NET Core Test-Driven Development: Dive into TDD to create flexible, maintainable, and production-ready .NET Core applications (Adewole, Ayobami)
+- Your Highlight on Location 321-328 | Added on Wednesday, July 22, 2020 5:23:49 PM
+
+You can download the example code files for this book from your account at www.packtpub.com. If you purchased this book elsewhere, you can visit www.packtpub.com/support and register to have the files emailed directly to you. You can download the code files by following these steps: Log in or register at www.packtpub.com. Select the SUPPORT tab. Click on Code Downloads & Errata. Enter the name of the book in the Search box and follow the onscreen instructions. Once the file is downloaded, please make sure that you unzip or extract the folder using the latest version of: WinRAR/7-Zip for Windows
+==========
+C# and .NET Core Test-Driven Development: Dive into TDD to create flexible, maintainable, and production-ready .NET Core applications (Adewole, Ayobami)
+- Your Highlight on Location 329-338 | Added on Wednesday, July 22, 2020 5:26:05 PM
+
+The code bundle for the book is also hosted on GitHub at https://github.com/PacktPublishing/CSharp-and-.NET-Core-Test-Driven-Development. In case there's an update to the code, it will be updated on the existing GitHub repository. We also have other code bundles from our rich catalog of books and videos available at https://github.com/PacktPublishing/. Check them out! Download the color images We also provide a PDF file that has color images of the screenshots/diagrams used in this book. You can download it here: https://www.packtpub.com/sites/default/files/downloads/CSharpanddotNETTestDrivenDevelopment_ColorImages.pdf
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 412-417 | Added on Friday, July 24, 2020 6:40:02 PM
+
+Install Docker from the official repo.  $ sudo apt-get install docker.io
+ Reading package lists... Done
+ Building dependency tree   
+ ...
+ Docker is now installed and you can test by running some commands. $ sudo docker --version
+Docker version 19.03.8, build afacb8b7f0
+
+$ sudo docker info
+Server:
+ Containers: 0
+  Running: 0
+  Paused: 0
+  Stopped: 0
+  ...
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 13 | Location 248-262 | Added on Saturday, July 25, 2020 12:41:37 PM
+
+To have different responses based on different URLs, add the following code in bold: const http = require('http') const server = http.createServer((req, res) =>{ if(req.url === '/about') res.end('The about page') else if(req.url === '/contact') res.end('The contact page') else if(req.url === '/') res.end('The home page')        else { res.writeHead(404) res.end('page not found') }    }) server.listen(3000)
+==========
+Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming (Cannon, Jason)
+- Your Highlight on page 1 | Location 48-62 | Added on Sunday, July 26, 2020 5:39:46 PM
+
+Introduction I'm lazy.  I admit it.  I believe so strongly in being lazy that I'll do almost anything to facilitate even more laziness in the future. For example, if I think there is a slight chance that I will ever have to perform the same set of commands again, I create a shell script then and there.  When I need to do that task again, I lazily execute my script.  If maintenance needs to be performed on a system at 2:00 in the morning, I write a script that does the required work and schedule a job to run it.  Lazy people love to sleep. I also believe in helping people find their inner laziness.  Why?  Because lazy people solve problems.  They eliminate the unnecessary.  They simplify the complex. That's the reason I've written this book. I want to share with you some of my favorite tips and tricks I've used to automate repetitive, monotonous, tedious, and complex tasks.  May they inspire you to be lazy. Before we get started I recommend that you download the shell scripts used in this book by visiting:  http://www.linuxtrainingacademy.com/shell-scripts Shell Scripting,
+==========
+Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming (Cannon, Jason)
+- Your Highlight on page 2 | Location 68-73 | Added on Sunday, July 26, 2020 5:42:38 PM
+
+Let's look at a simple shell script.  The name of this script is script1.sh. #!/bin/bash  echo "Scripting is fun!"  Before you try to execute the script, make sure that it is executable. $ chmod 755 script1.sh
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on Location 557-569 | Added on Monday, July 27, 2020 12:31:31 PM
+
+Technical requirements We'll use the following tools in this chapter: Visual Studio 2019: This can be downloaded and installed from https://visualstudio.microsoft.com/vs/. Make sure that the following features are selected in the installer:  ASP.NET and web development Azure development Node.js development .NET Core 3.0: This can be downloaded and installed from https://dotnet.microsoft.com/download/dotnet-core. Node.js and npm: These can be downloaded from https://nodejs.org/. All the code snippets in this chapter can be found online at https://github.com/PacktPublishing/ASP.NET-Core-3-and-React-17. In order to restore code from this chapter, the source code repository should be downloaded and the project in the Chapter01 folder should be opened in Visual Studio. Check out the following video to see the code in action: http://bit.ly/2ZpsqaZ
+==========
+C# and .NET Core Test-Driven Development: Dive into TDD to create flexible, maintainable, and production-ready .NET Core applications (Adewole, Ayobami)
+- Your Highlight on Location 410-416 | Added on Tuesday, July 28, 2020 5:19:39 PM
+
+public void SendSMS()
+{
+    SmppManager smppManager= new SmppManager(); 
+    smppManager.SendMessage("0802312345","Hello", "John");
+}
+ public class SmppManager
+{
+    private string sourceAddress;
+    private SmppClient smppClient;
+ public SmppManager()
+    {
+       smppClient = new SmppClient();
+       smppClient.Start();            
+    }        
+        public void SendMessage(string recipient, string message, string senderName)
+    {
+       // send message using referenced library            
+    }    
+}
+==========
+Focus (Goleman, Daniel)
+- Your Highlight on page 13 | Location 222-222 | Added on Wednesday, July 29, 2020 12:16:19 PM
+
+selective attention,
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 7 | Location 545-552 | Added on Wednesday, July 29, 2020 12:25:21 PM
+
+function amountFor(perf, play) {
+  let thisAmount = 0;
+  switch (play.type) {
+  case "tragedy":
+    thisAmount = 40000;
+    if (perf.audience > 30) {
+      thisAmount += 1000 * (perf.audience - 30);
+    }
+    break;
+  case "comedy":
+    thisAmount = 30000;
+    if (perf.audience > 20) {
+      thisAmount += 10000 + 500 * (perf.audience - 20);
+    }
+    thisAmount += 300 * perf.audience;
+    break;
+  default:
+      throw new Error(`unknown type: ${play.type}`);
+  }
+  return thisAmount;
+}
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 8 | Location 558-564 | Added on Wednesday, July 29, 2020 12:26:12 PM
+
+function statement (invoice, plays) {
+  let totalAmount = 0;
+  let volumeCredits = 0;
+  let result = `Statement for ${invoice.customer}\n`;
+  const format = new Intl.NumberFormat("en-US",
+                        { style: "currency", currency: "USD",
+                          minimumFractionDigits: 2 }).format;
+  for (let perf of invoice.performances) {
+    const play = plays[perf.playID];
+    let thisAmount = amountFor(perf, play);
+
+    // add volume credits
+    volumeCredits += Math.max(perf.audience - 30, 0);
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 461-463 | Added on Wednesday, July 29, 2020 12:47:26 PM
+
+another great way to get Docker is Play With Docker (PWD). This is a web-based Docker playground that you can use for free. Just point your web browser to https://labs.play-with-docker.com/ and you’re ready to go (you’ll need a Docker Hub or GitHub account
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 480-482 | Added on Wednesday, July 29, 2020 12:50:36 PM
+
+If it works with sudo you will need to add your user account to the local docker group, or prefix the remainder of the commands in the book with sudo.
+==========
+The Kubernetes Book: Updated Feb 2020 (Poulton, Nigel)
+- Your Highlight on Location 260-264 | Added on Thursday, July 30, 2020 12:45:42 PM
+
+To help you keep up-to-date, I suggest you subscribe to a couple of my YouTube channels: #KubernetesMoment: a short weekly video discussing or explaining something about Kubernetes Kubernetes this Month: A monthly roundup of all the important things going on in the Kubernetes world You should also check out: My website at nigelpoulton.com My video training courses at pluralsight.com and acloud.guru My hands-on learning at MSB (msb.com) KubeCon and your local Kubernetes and cloud-native meetups
+==========
+Easy Learning Data Structures & Algorithms ES6+Javascript: Classic data structures and algorithms in ES6+ JavaScript (hu, yang)
+- Your Highlight on page 8 | Location 137-208 | Added on Thursday, July 30, 2020 8:28:46 PM
+
+<script type="text/javascript">  class BubbleSort{  static sort(arrays) {  for (var i = 0; i < arrays.length - 1; i++) {  for (var j = 0; j < arrays.length - i - 1; j++) {  //swap  if (arrays[j] > arrays[j + 1]) {  var flag = arrays[j];  arrays[j] = arrays[j + 1];  arrays[j + 1] = flag;  }  }  }  }  }  //////////////////////testing////////////////////  var scores = [ 60, 50, 95, 80, 70 ];  BubbleSort.sort(scores);  for (var i = 0; i < scores.length; i++) {  document.write(scores[i] + ",");  }  </script>  Result:
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 16 | Location 305-314 | Added on Thursday, July 30, 2020 8:48:52 PM
+
+In the same folder as index.js, create a new file called index.html with the below simple HTML: <h1>Home Page</h1> Do the same for about.html(<h1>About Page</h1>), contact.html(<h1>Contact Page</h1>) and notfound.html(<h1>Page Not Found</h1>).
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 16 | Location 314-333 | Added on Thursday, July 30, 2020 8:50:50 PM
+
+Back in index.js, add the below code in bold: const http = require('http') const fs = require('fs') const homePage = fs.readFileSync('index.html') const aboutPage = fs.readFileSync('about.html') const contactPage = fs.readFileSync('contact.html') const notFoundPage = fs.readFileSync('notfound.html') const server = http.createServer((req, res) =>{    if(req.url === '/about') res.end(aboutPage) else if(req.url === '/contact') res.end(contactPage) else if(req.url === '/') res.end(homePage)        else { res.writeHead(404) res.end(notFoundPage) }    }) server.listen(3000)
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 11 | Location 627-634 | Added on Sunday, August 2, 2020 1:10:52 PM
+
+The refactoring I will use here is Replace Temp with Query (178). I begin by extracting the right-hand side of the assignment into a function. function statement… Click here to view code image function playFor(aPerformance) {
+  return plays[aPerformance.playID];
+}
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 11 | Location 636-640 | Added on Sunday, August 2, 2020 1:12:37 PM
+
+function statement (invoice, plays) {
+  let totalAmount = 0;
+  let volumeCredits = 0;
+  let result = `Statement for ${invoice.customer}\n`;
+  const format = new Intl.NumberFormat("en-US",
+                        { style: "currency", currency: "USD",
+                          minimumFractionDigits: 2 }).format;
+  for (let perf of invoice.performances) {
+    const play = playFor(perf);
+    let thisAmount = amountFor(perf, play);
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on Location 589-590 | Added on Monday, August 3, 2020 12:18:53 PM
+
+Give the project
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on Location 594-596 | Added on Monday, August 3, 2020 12:20:34 PM
+
+If ASP.NET Core 3.0 isn't listed, make sure the latest version of Visual Studio is installed. This can be done by choosing the Check for Updates option on the Help menu.
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 489-492 | Added on Monday, August 3, 2020 12:46:31 PM
+
+Getting images onto your Docker host is called “pulling”. If you are following along with Linux, pull the ubuntu:latest image. If you are following along on Windows, pull the mcr.microsoft.com/powershell:lts-nanoserver-1903 image. $ docker image pull ubuntu:latest
+latest: Pulling from library/ubuntu
+50aff78429b1: Pull complete
+f6d82e297bce: Pull complete
+==========
+SSH Mastery: OpenSSH, PuTTY, Tunnels and Keys (IT Mastery Book 12) (Lucas, Michael W)
+- Your Highlight on page 46 | Location 667-671 | Added on Monday, August 3, 2020 5:24:18 PM
+
+View a key’s fingerprint with the ssh-keygen(1) program, using -l to print the fingerprint and -f to specify a key file. Here I view the fingerprint of this host’s ED25519 key. $ cd /etc/ssh $ ssh-keygen -lf ssh_host_ed25519_key.pub 256 SHA256:JwmD+yFwH83rPdhorge/S6qxXAUy3/G0CvFqTrcIWkY root@www (ED25519)
+==========
+Understanding ECMAScript 6 (Zakas, Nicholas C.)
+- Your Highlight on Location 293-293 | Added on Thursday, August 6, 2020 12:48:20 PM
+
+that somebody pulled the rug
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 2427-2433 | Added on Friday, August 7, 2020 12:24:09 PM
+
+Software Tools Software developers must master a number of core tools: At least one programming language, and often more An integrated development environment or programmer’s editor (vim, Emacs, etc.) Various data formats (JSON, XML, YAML, etc.) and markup languages (including HTML) Command-line and script-based interaction with the operating system Source repository tools (Git. Is there another choice?) Continuous integration/build tools (Jenkins, TeamCity, GoCD, etc.) Deployment/server management tools (Docker, Kubernetes, Ansible, Chef, Puppet, etc.) Communication tools: email, Slack, the English language (!) Testing tools (unit testing frameworks, Cucumber, Selenium, etc.)
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Note on Location 2433 | Added on Friday, August 7, 2020 12:25:49 PM
+
+Linkedin skills
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 41 | Location 946 | Added on Monday, August 10, 2020 5:22:57 PM
+
+
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 39 | Location 919 | Added on Monday, August 10, 2020 5:23:15 PM
+
+
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 41 | Location 944-945 | Added on Monday, August 10, 2020 5:28:58 PM
+
+average absolute deviation; see Equation 2-2): Equation
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 41 | Location 945-946 | Added on Monday, August 10, 2020 5:29:45 PM
+
+Equation 2-2. Mean absolute error (MAE)
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 39 | Location 919-920 | Added on Monday, August 10, 2020 5:31:21 PM
+
+Equation 2-1. Root Mean Square Error (RMSE) Notations
+==========
+Design Patterns (Addison-Wesley Professional Computing Series) (Gamma, Erich)
+- Your Highlight on Location 1132-1133 | Added on Wednesday, August 12, 2020 12:23:41 PM
+
+Retargeting Lexi to a new platform shouldn’t require a major overhaul,
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 21 | Location 417-427 | Added on Thursday, August 13, 2020 12:15:31 PM
+
+Before we run npm install express, npm requires that we have a file package.json to track all packages and their versions used in our app. If you run npm install express now without the file, you will get a series of warnings like “no such file or directory, open …package.json”. To generate package.json file, run ‘npm init’ which will prompt a series of questions about our project (e.g. project name, author, version) to create package.json for us.
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 23 | Location 495-499 | Added on Thursday, August 13, 2020 12:36:12 PM
+
+const express = require('express') // require express module const app = express() // calls express function to start new Express app app.listen(3000,()=>{ console.log("App listening on port 3000") }) Express
+==========
+The Kubernetes Book: Updated Feb 2020 (Poulton, Nigel)
+- Your Highlight on page 15 | Location 299-300 | Added on Thursday, August 13, 2020 12:50:54 PM
+
+Deployments offer scalability and rolling updates, DaemonSets run one instance of a service on every node in the cluster, StatefulSets are for stateful application components, and CronJobs are for short-lived tasks that need to run at set times.
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 42 | Location 969-970 | Added on Friday, August 14, 2020 5:34:42 PM
+
+The full Jupyter notebook is available at https://github.com/ageron/handson-ml2.
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 42 | Location 973-976 | Added on Friday, August 14, 2020 5:36:29 PM
+
+Next you need to create a workspace directory for your Machine Learning code and datasets. Open a terminal and type the following commands (after the $ prompts): $ export ML_PATH="$HOME/ml"      # You can change the path if you prefer
+$ mkdir -p $ML_PATH
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 43 | Location 990-994 | Added on Friday, August 14, 2020 5:41:33 PM
+
+install virtualenv8 by running the following pip command (again, if you want virtualenv to be installed for all users on your machine, remove --user and run this command with administrator rights): $ python3 -m pip install --user -U virtualenv
+Collecting virtualenv
+[...]
+Successfully installed virtualenv-16.7.6
+==========
+Numsense! Data Science for the Layman: No Math Added (Ng, Annalyn)
+- Your Highlight on page 10 | Location 222-223 | Added on Sunday, August 16, 2020 12:42:26 PM
+
+An overfitted model would yield highly accurate predictions for the current data, but would be less generalizable to future data.
+==========
+Numsense! Data Science for the Layman: No Math Added (Ng, Annalyn)
+- Your Highlight on page 10 | Location 224-225 | Added on Sunday, August 16, 2020 12:42:40 PM
+
+An underfitted model is likely to neglect significant trends, which would cause it to yield less accurate predictions for both current and future data.
+==========
+Domain-Driven Design (Evans Eric)
+- Your Highlight on page 3 | Location 514-515 | Added on Sunday, August 16, 2020 12:56:27 PM
+
+A model is a selectively simplified and consciously structured form of knowledge.
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 582-584 | Added on Sunday, August 16, 2020 6:24:38 PM
+
+Stop the container and kill it using the docker container stop and docker container rm commands. Remember to substitute the names/IDs of your own containers. $ docker container stop vigilant_borg
+vigilant_borg
+
+$ docker container rm vigilant_borg
+vigilant_borg
+==========
+Docker Deep Dive: Zero to Docker in a single book (Poulton, Nigel)
+- Your Highlight on Location 591-593 | Added on Sunday, August 16, 2020 6:27:55 PM
+
+this section, we’ll clone an app from a Git repo, inspect its Dockerfile, containerize it, and run it as a container. The Linux app can be cloned from: https://github.com/nigelpoulton/psweb.git The Windows app can be cloned from: https://github.com/nigelpoulton/win-web.git
+==========
+Refactoring (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
+- Your Highlight on page 22 | Location 914-940 | Added on Monday, August 17, 2020 12:24:06 PM
+
+Status: Lots of Nested Functions Now is a good time to pause and take a look at the overall state of the code: Click here to view code image function statement (invoice, plays) {
+  let result = `Statement for ${invoice.customer}\n`;
+  for (let perf of invoice.performances) {
+    result += `  ${playFor(perf).name}: ${usd(amountFor(perf))} (${perf.audience} seats)\n`;
+  }
+  result += `Amount owed is ${usd(totalAmount())}\n`;
+  result += `You earned ${totalVolumeCredits()} credits\n`;
+  return result;
+
+  function totalAmount() {
+    let result = 0;
+    for (let perf of invoice.performances) {
+      result += amountFor(perf);
+    }
+    return result;
+  }
+
+  function totalVolumeCredits() {
+    let result = 0;
+    for (let perf of invoice.performances) {
+      result += volumeCreditsFor(perf);
+    }
+    return result;
+  }
+  function usd(aNumber) {
+    return new Intl.NumberFormat("en-US",
+                        { style: "currency", currency: "USD",
+                          minimumFractionDigits: 2 }).format(aNumber/100);
+  }
+  function volumeCreditsFor(aPerformance) {
+    let result = 0;
+    result += Math.max(aPerformance.audience - 30, 0);
+    if ("comedy" === playFor(aPerformance).type) result += Math.floor(aPerformance.audience / 5);
+    return result;
+  }
+  function playFor(aPerformance) {
+    return plays[aPerformance.playID];
+  }
+  function amountFor(aPerformance) {
+    let result = 0;
+    switch (playFor(aPerformance).type) {
+    case "tragedy":
+      result = 40000;
+      if (aPerformance.audience > 30) {
+        result += 1000 * (aPerformance.audience - 30);
+      }
+      break;
+    case "comedy":
+      result = 30000;
+      if (aPerformance.audience > 20) {
+        result += 10000 + 500 * (aPerformance.audience - 20);
+      }
+      result += 300 * aPerformance.audience;
+      break;
+    default:
+        throw new Error(`unknown type: ${playFor(aPerformance).type}`);
+    }
+    return result;
+  }
+}
+==========
+Beginning Node.js,  Express & MongoDB Development (Lim, Greg)
+- Your Highlight on page 25 | Location 545-547 | Added on Monday, August 17, 2020 12:51:34 PM
+
+With Express, we can refactor one big request handler function into many smaller request handlers that each handle a specific function. This allow us to build our app in a more modular and maintainable way.
+==========
+Easy Learning Data Structures & Algorithms ES6+Javascript: Classic data structures and algorithms in ES6+ JavaScript (hu, yang)
+- Your Highlight on page 20 | Location 346-418 | Added on Wednesday, August 19, 2020 12:12:03 PM
+
+<script type="text/javascript">  class InsertSort{  static sort(arrays) {  for (var i = 0; i < arrays.length; i++) {  var insertElement = arrays[i];//Take unsorted new elements  var insertPosition = i; //Inserted position  for (var j = insertPosition - 1; j >= 0; j--) {  //If the new element is smaller than the sorted element, shifted to the right  if (insertElement < arrays[j]) {  arrays[j + 1] = arrays[j];  insertPosition--;  }  }  arrays[insertPosition] = insertElement;//Insert the new element  }  }  }  //////////////////////testing////////////////////  var scores = [ 90, 70, 50, 80, 60, 85 ];  InsertSort.sort(scores);  for (var i = 0; i < scores.length; i++) {  document.write(scores[i] + ",");  }  </script>
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 43 | Location 994-1001 | Added on Wednesday, August 19, 2020 12:23:58 PM
+
+Now you can create an isolated Python environment by typing this: $ cd $ML_PATH
+$ python3 -m virtualenv my_env
+Using base prefix '[...]'
+New python executable in [...]/ml/my_env/bin/python3
+Also creating executable in [...]/ml/my_env/bin/python
+Installing setuptools, pip, wheel...done.
+ Now every time you want to activate this environment, just open a terminal and type the following: $ cd $ML_PATH
+$ source my_env/bin/activate # on Linux or macOS
+$ .\my_env\Scripts\activate  # on Windows
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 44 | Location 1006-1007 | Added on Wednesday, August 19, 2020 12:27:35 PM
+
+you will need the --user option or administrator rights): $ python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+==========
+Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Géron, Aurélien)
+- Your Highlight on page 46 | Location 1038-1053 | Added on Wednesday, August 19, 2020 12:37:15 PM
+
+Here is the function to fetch the data:11 import os
+import tarfile
+import urllib
+
+DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-ml2/master/"
+HOUSING_PATH = os.path.join("datasets", "housing")
+HOUSING_URL = DOWNLOAD_ROOT + "datasets/housing/housing.tgz"
+
+def fetch_housing_data(housing_url=HOUSING_URL, housing_path=HOUSING_PATH):
+    os.makedirs(housing_path, exist_ok=True)
+    tgz_path = os.path.join(housing_path, "housing.tgz")
+    urllib.request.urlretrieve(housing_url, tgz_path)
+    housing_tgz = tarfile.open(tgz_path)
+    housing_tgz.extractall(path=housing_path)
+    housing_tgz.close() Now
+==========
+Shell Scripting: How to Automate Command Line Tasks Using Bash Scripting and Shell Programming (Cannon, Jason)
+- Your Highlight on page 6 | Location 166-170 | Added on Wednesday, August 19, 2020 12:49:42 PM
+
+You can also assign the output of a command to a variable.  To do this, enclose the command in parentheses and precede it with a dollar sign. #!/bin/bash  SERVER_NAME=$(hostname)  echo "You are running this script on ${SERVER_NAME}."  The output of the command hostname
+==========
+Domain-Driven Design (Evans Eric)
+- Your Highlight on page 4 | Location 539-539 | Added on Sunday, August 30, 2020 1:04:40 PM
+
+The heart of software is its ability to solve domain-related problems for its user.
+==========
+Algorithms (The MIT Press Essential Knowledge series) (Louridas, Panos)
+- Your Highlight on page 1 | Location 162-162 | Added on Tuesday, September 8, 2020 11:02:49 PM
+
+on time allows us to get a grip on its fluidity. We have therefore
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on Location 2607-2609 | Added on Wednesday, September 9, 2020 12:25:41 PM
+
+There is a growing body of coaching tools. Many of them can be found at tastycupcakes.org, retromat.org, and liberatingstructures.com.
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 27 | Location 771-780 | Added on Thursday, September 10, 2020 5:37:55 PM
+
+The next task in the Target element uses a Message command, which outputs Restoring dependencies using 'npm'. This may take several minutes... to the Output window. We'll see this message when running the project for the first time: The final task that is carried out when the project is run in debug mode is another Exec task that executes the following npm command: > npm install This command downloads all the packages that are listed as dependencies in package.json into a folder called node_modules:
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 26 | Location 750-754 | Added on Thursday, September 10, 2020 5:38:02 PM
+
+Running in development mode In the following steps, we'll examine the ASP.NET Core project file to see what happens when the app runs in development mode: We can open the project file by right-clicking on the web application project in Solution Explorer and selecting the Edit Project File option:
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 149 | Location 2148-2150 | Added on Friday, September 18, 2020 12:40:48 PM
+
+Any organization that designs a system will produce a design whose structure is a copy of the organization’s communication structure.
+==========
+Beginning Node.js, Express & MongoDB Development (Lim, Greg)
+- Your Highlight on Location 676-680 | Added on Sunday, September 20, 2020 12:55:58 PM
+
+using the ‘Clean Blog’ theme from startbootstrap.com (https://startbootstrap.com/themes/clean-blog/ fig. 3.1).
+==========
+Beginning Node.js, Express & MongoDB Development (Lim, Greg)
+- Your Note on Location 680 | Added on Sunday, September 20, 2020 12:56:24 PM
+
+First project
+==========
+Linux for Beginners: An Introduction to the Linux Operating System and Command Line (Cannon, Jason)
+- Your Highlight on page 54 | Location 534-536 | Added on Friday, October 2, 2020 12:54:52 PM
+
+If you are curious about what Linux has to offer, get your FREE copy today by visiting http://www.linuxtrainingacademy.com/linux-apps/.
+==========
+Pro Git (Chacon, Scott)
+- Your Highlight on page 66 | Location 1926-1930 | Added on Tuesday, November 3, 2020 12:59:20 PM
+
+Note Don’t type your password every time. If you’re using an HTTPS URL to push over, the Git server will ask you for your username and password for authentication. By default it will prompt you on the terminal for this information so the server can tell if you’re allowed to push. If you don’t want to type it every single time you push, you can set up a “credential cache.” The simplest is just to keep it in memory for a few minutes, which you can easily set up by running git config --global credential.helper cache.
+==========
+The Kubernetes Book: Updated September 2020 (Poulton, Nigel)
+- Your Highlight on page 26 | Location 513-515 | Added on Wednesday, November 11, 2020 12:57:36 PM
+
+That’s the job of a Service – it’s a stable network abstraction point that provides TCP and UDP load-balancing across a dynamic set of Pods.
+==========
+Kindle User's Guide, 6th Edition (Amazon)
+- Your Bookmark on Location 232 | Added on Sunday, November 22, 2020 1:20:13 PM
+
+
+==========
+Introduction to Algorithms, third edition (Cormen, Thomas H.)
+- Your Note on page 15 | Location 318 | Added on Sunday, November 29, 2020 5:28:07 PM
+
+Web
+==========
+Introduction to Algorithms, third edition (Cormen, Thomas H.)
+- Your Highlight on page 14 | Location 316-318 | Added on Sunday, November 29, 2020 5:28:07 PM
+
+We have heard, loud and clear, the call to supply solutions to problems and exercises. Our Web site, http://mitpress.mit.edu/algorithms/, links to solutions for a few of the problems and exercises
+==========
+Programming Arduino Next Steps: Going Further with Sketches, Second Edition (Monk, Simon)
+- Your Highlight on page 24 | Location 590-590 | Added on Thursday, December 3, 2020 5:38:48 PM
+
+much new to say about
+==========
+Programming Arduino Next Steps: Going Further with Sketches, Second Edition (Monk, Simon)
+- Your Highlight on page 24 | Location 590-591 | Added on Thursday, December 3, 2020 5:39:08 PM
+
+There is not really much new to say about digital outputs from a programming point of view, as you have
+==========
+Kindle User's Guide, 6th Edition (Amazon)
+- Your Bookmark on Location 235 | Added on Sunday, December 6, 2020 1:34:22 PM
+
+
+==========
+Kindle User's Guide, 6th Edition (Amazon)
+- Your Bookmark on Location 235 | Added on Sunday, December 6, 2020 1:36:12 PM
+
+
+==========
+Kindle User's Guide, 6th Edition (Amazon)
+- Your Bookmark on Location 230 | Added on Sunday, December 6, 2020 1:36:21 PM
+
+
+==========
+Amazon Elastic Compute Cloud (Amazon Web Services)
+- Your Note on Location 219 | Added on Sunday, December 6, 2020 1:55:40 PM
+
+CLI
+==========
+Amazon Elastic Compute Cloud (Amazon Web Services)
+- Your Highlight on Location 218-219 | Added on Sunday, December 6, 2020 1:55:40 PM
+
+AWS Command Line Interface User Guide.
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 53 | Location 1190-1191 | Added on Wednesday, December 30, 2020 12:32:55 PM
+
+> npm start The app will appear in our browser after a few seconds:
+==========
+Clean Agile (Robert C. Martin Series) (Martin, Robert C.)
+- Your Bookmark on Location 3193 | Added on Sunday, January 10, 2021 12:50:06 PM
+
+
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 58 | Location 1260-1260 | Added on Wednesday, February 10, 2021 12:19:18 PM
+
+npm install prettier --save-dev
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 58 | Location 1262-1263 | Added on Wednesday, February 10, 2021 12:19:26 PM
+
+npm install eslint-config-prettier
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 58 | Location 1267-1269 | Added on Wednesday, February 10, 2021 12:19:42 PM
+
+{
+  "extends": ["react-app","prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Note on page 58 | Location 1256 | Added on Wednesday, February 10, 2021 12:20:03 PM
+
+Prettier
+==========
+ASP.NET Core 3 and React: Hands-On full stack web development using ASP.NET Core, React, and TypeScript 3 (Rippon, Carl)
+- Your Highlight on page 58 | Location 1256-1256 | Added on Wednesday, February 10, 2021 12:20:03 PM
+
+Prettier
+==========
+Linux for Beginners: An Introduction to the Linux Operating System and Command Line (Cannon, Jason)
+- Your Highlight on page 76 | Location 863-864 | Added on Friday, February 19, 2021 6:04:02 PM
+
+that is interpreted to mean all permissions on or rwx. When you supply
+==========
+Programming Arduino Next Steps: Going Further with Sketches, Second Edition (Monk, Simon)
+- Your Note on page 37 | Location 718 | Added on Wednesday, March 17, 2021 5:20:30 PM
+
+Arduino tutorials
+==========
+Programming Arduino Next Steps: Going Further with Sketches, Second Edition (Monk, Simon)
+- Your Highlight on page 37 | Location 718-718 | Added on Wednesday, March 17, 2021 5:20:31 PM
+
+free Arduino tutorials at www.learn.adafruit.com
+==========
+Clean Architecture (Robert C. Martin Series) (Martin, Robert C.)
+- Your Highlight on page 202 | Location 2763-2764 | Added on Sunday, August 8, 2021 8:50:47 PM
+
+Ivar Jacobson from his book Object Oriented Software Engineering: A Use-Case Driven Approach
+==========
+The Secret Life of the Mind: How Your Brain Thinks, Feels, and Decides (Sigman, Mariano)
+- Your Highlight on page 47 | Location 721-722 | Added on Sunday, August 15, 2021 4:04:51 PM
+
+‘It is our choices, Harry, that show what we truly are, far more than our abilities
+==========

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b01b431-4282-4ce3-8386-e33f0ff6cd2e</dc:identifier>
+        <dc:title>Oxford Spanish - English Dictionary (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Press, Oxford University" opf:role="aut">Oxford University Press</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00NM4BJ4W</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Oxford University Press&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-01-23T22:45:24.633964+00:00"/>
+        <meta name="calibre:title_sort" content="Oxford Spanish - English Dictionary (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
